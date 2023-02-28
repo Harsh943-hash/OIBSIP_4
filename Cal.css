@@ -1,0 +1,38 @@
+.container{
+    text-align: center;
+    background-color: #f0741cba;
+    height: 764px;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 27px;
+    border-radius: 25px;
+    height: 75px;
+}
+button{
+    font-size: 23px;
+    width: 66px;
+    height: 50px;
+    border-radius: 14px;
+}
+.double_width{
+    width: 136px;
+}
+.lightblue{
+    background-color:  #ffee0073;
+}
+.blue{
+    background-color: rgb(240 245 8 / 78%);
+}
+.darkblue{
+    background-color: rgb(243 238 11);
+}
+.Calculator{
+    background-color:rgb(224, 136, 116) ;
+    margin-top: 65px;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 26px;
+}
